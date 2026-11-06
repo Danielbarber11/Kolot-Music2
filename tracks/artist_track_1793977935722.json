@@ -1,0 +1,16 @@
+{
+  "id": "artist_track_1793977935722",
+  "name": "שקיעה_כתומה",
+  "artistName": "דניאל ברבר",
+  "albumName": "סינגל עצמאי",
+  "duration": 180,
+  "audioUrl": "blob:https://ais-dev-hsajl3hjn23cfxsplourzn-11325820098.europe-west2.run.app/45a1aac6-b418-49dd-a705-6a66fc474949",
+  "coverUrl": "",
+  "genre": "Pop",
+  "license": "Kolot Music Cloud Storage (1GB)",
+  "source": "Kolot Music Open Storage",
+  "legalStatus": "100% שיר עצמאי מקורי ומאושר להאזנה",
+  "publishedDate": "2026-11-06",
+  "publisherAccountUrl": "https://audius.co",
+  "bgColor": "radial-gradient(circle at 50% 35%, rgba(236, 72, 153, 0.78) 0%, rgba(42, 13, 28, 0.96) 55%, #030712 100%)"
+}
