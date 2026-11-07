@@ -1,0 +1,22 @@
+{
+  "id": "artist_track_1794053666966",
+  "name": "הקול של המחר",
+  "artistName": "דניאל ברבר",
+  "albumName": "סינגל עצמאי",
+  "duration": 180,
+  "audioUrl": "blob:https://ais-dev-hsajl3hjn23cfxsplourzn-11325820098.europe-west2.run.app/f2628a46-4b03-4246-8dcb-4aad113383ce",
+  "coverUrl": "blob:https://gemini.google.com/86a68fb6-bc51-46c3-9970-61f7043da3e9",
+  "genre": "שונות",
+  "license": "אחסון ענן ציבורי (1GB)",
+  "licenseUrl": "https://audius.co",
+  "source": "Kolot Music Public Cloud Storage",
+  "legalStatus": "100% שיר עצמאי מקורי ומאושר להאזנה",
+  "publishedDate": "2026",
+  "artistBio": "",
+  "artistAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPoMwkQYsr2-L12X219YqVXHXoWVjyGfokKmVGS3OPvKd5Uw=s96-c",
+  "publisherAccountUrl": "https://audius.co",
+  "uploadedByUid": "dw6CNg28cUXQw47Ib1SSKcHuZiN2",
+  "isPrivate": false,
+  "bgColor": "radial-gradient(circle at 50% 35%, rgba(31, 214, 147, 0.85) 0%, rgba(5, 34, 24, 0.98) 55%, #030712 100%)",
+  "isAiGenerated": true
+}
