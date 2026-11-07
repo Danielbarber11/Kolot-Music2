@@ -1,6 +1,6 @@
 {
   "id": "artist_track_1794053762741",
-  "name": "הקול_של_המחר",
+  "name": "הקול של המחר",
   "artistName": "דניאל ברבר",
   "albumName": "סינגל עצמאי",
   "duration": 180,
@@ -8,15 +8,16 @@
   "coverUrl": "https://cdn.jsdelivr.net/gh/Danielbarber11/Kolot-Music1@main/covers/artist_track_1794053762741.jpg",
   "genre": "Pop",
   "license": "אחסון ענן ציבורי (1GB)",
-  "licenseUrl": "https://audius.co",
   "source": "GitHub Storage (Danielbarber11/Kolot-Music1)",
   "legalStatus": "100% שיר עצמאי מקורי ומאושר להאזנה",
   "publishedDate": "2026",
-  "artistBio": "",
-  "artistAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPoMwkQYsr2-L12X219YqVXHXoWVjyGfokKmVGS3OPvKd5Uw=s96-c",
   "publisherAccountUrl": "https://audius.co",
   "uploadedByUid": "dw6CNg28cUXQw47Ib1SSKcHuZiN2",
-  "isPrivate": false,
   "bgColor": "radial-gradient(circle at 50% 35%, rgba(10, 85, 152, 0.85) 0%, rgba(2, 14, 24, 0.98) 55%, #030712 100%)",
-  "isAiGenerated": true
+  "artistAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPoMwkQYsr2-L12X219YqVXHXoWVjyGfokKmVGS3OPvKd5Uw=s96-c",
+  "isAiGenerated": true,
+  "playsCount": 0,
+  "licenseUrl": "https://audius.co",
+  "artistBio": "",
+  "isPrivate": false
 }
