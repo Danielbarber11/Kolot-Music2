@@ -1,6 +1,6 @@
 {
   "id": "artist_track_1794053762741",
-  "name": "הקול_של_המחר",
+  "name": "הקול של המחר",
   "artistName": "דניאל ברבר",
   "albumName": "סינגל עצמאי",
   "duration": 180,
@@ -17,6 +17,6 @@
   "publisherAccountUrl": "https://audius.co",
   "uploadedByUid": "dw6CNg28cUXQw47Ib1SSKcHuZiN2",
   "isPrivate": false,
-  "bgColor": "radial-gradient(circle at 50% 35%, rgba(59, 130, 246, 0.85) 0%, rgba(9, 21, 39, 0.98) 55%, #030712 100%)",
+  "bgColor": "radial-gradient(circle at 50% 35%, rgba(10, 85, 152, 0.85) 0%, rgba(2, 14, 24, 0.98) 55%, #030712 100%)",
   "isAiGenerated": true
 }
