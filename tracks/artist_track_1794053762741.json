@@ -19,5 +19,6 @@
   "playsCount": 0,
   "licenseUrl": "https://audius.co",
   "artistBio": "",
-  "isPrivate": false
+  "isPrivate": false,
+  "hasAutoLyrics": true
 }
