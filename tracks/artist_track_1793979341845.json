@@ -4,8 +4,8 @@
   "artistName": "דניאל ברבר",
   "albumName": "סינגל עצמאי",
   "duration": 180,
-  "audioUrl": "https://raw.githubusercontent.com/Danielbarber11/Kolot-Music1/main/audio/artist_track_1793979341845.mp3",
-  "coverUrl": "https://raw.githubusercontent.com/Danielbarber11/Kolot-Music1/main/covers/artist_track_1793979341845.jpg",
+  "audioUrl": "https://cdn.jsdelivr.net/gh/Danielbarber11/Kolot-Music1@main/audio/artist_track_1793979341845.mp3",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Danielbarber11/Kolot-Music1@main/covers/artist_track_1793979341845.jpg",
   "genre": "Pop",
   "license": "Kolot Music Cloud Storage (1GB)",
   "source": "Kolot Music Open Storage",
@@ -13,11 +13,12 @@
   "publishedDate": "2026",
   "publisherAccountUrl": "https://audius.co",
   "uploadedByUid": "dw6CNg28cUXQw47Ib1SSKcHuZiN2",
-  "bgColor": "linear-gradient(180deg, rgba(211, 115, 102, 0.85) 0%, rgba(38, 21, 18, 0.95) 42%, #030712 68%, #000000 100%)",
+  "bgColor": "linear-gradient(180deg, rgb(211, 115, 102) 0%, rgb(158, 86, 77) 35%, rgb(95, 52, 46) 70%, rgb(63, 35, 31) 100%)",
   "artistAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPoMwkQYsr2-L12X219YqVXHXoWVjyGfokKmVGS3OPvKd5Uw=s96-c",
   "isAiGenerated": false,
   "playsCount": 0,
   "licenseUrl": "https://audius.co",
   "artistBio": "",
-  "isPrivate": false
+  "isPrivate": false,
+  "hasAutoLyrics": true
 }
