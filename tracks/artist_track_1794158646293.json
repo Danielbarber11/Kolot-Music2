@@ -17,7 +17,7 @@
   "publisherAccountUrl": "https://audius.co",
   "uploadedByUid": "dw6CNg28cUXQw47Ib1SSKcHuZiN2",
   "isPrivate": false,
-  "bgColor": "linear-gradient(180deg, rgba(102, 140, 158, 0.85) 0%, rgba(18, 25, 28, 0.95) 42%, #030712 68%, #000000 100%)",
+  "bgColor": "linear-gradient(180deg, rgb(102, 140, 158) 0%, rgb(77, 105, 119) 35%, rgb(46, 63, 71) 70%, rgb(31, 42, 47) 100%)",
   "isAiGenerated": true,
   "playsCount": 0
 }
