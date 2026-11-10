@@ -8,14 +8,18 @@
   "coverUrl": "https://cdn.jsdelivr.net/gh/Danielbarber11/Kolot-Music1@main/covers/artist_track_1794053762741.jpg",
   "genre": "Pop",
   "license": "Kolot Music Cloud Storage (1GB)",
-  "source": "GitHub Storage (Danielbarber11/Kolot-Music1)",
+  "source": "Kolot Music Open Storage",
   "legalStatus": "100% שיר עצמאי מקורי ומאושר להאזנה",
   "publishedDate": "2026",
   "publisherAccountUrl": "https://audius.co",
   "uploadedByUid": "dw6CNg28cUXQw47Ib1SSKcHuZiN2",
-  "uploadedByEmail": "danielbarber1246@gmail.com",
   "bgColor": "linear-gradient(180deg, rgb(10, 85, 152) 0%, rgb(8, 64, 114) 35%, rgb(5, 38, 68) 70%, rgb(3, 26, 46) 100%)",
   "artistAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPoMwkQYsr2-L12X219YqVXHXoWVjyGfokKmVGS3OPvKd5Uw=s96-c",
   "isAiGenerated": true,
-  "playsCount": 0
+  "playsCount": 0,
+  "licenseUrl": "https://audius.co",
+  "artistBio": "",
+  "isPrivate": false,
+  "hasAutoLyrics": true,
+  "uploadedByEmail": "danielbarber1246@gmail.com"
 }
